@@ -1,7 +1,7 @@
 
 # Usage
 
-you can take a loog at ./test
+you can take a look at ./test
 
 # C++ API
 ```c++
